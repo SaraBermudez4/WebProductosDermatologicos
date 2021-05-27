@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.js": "/WebProductosDermatologicos/static/js/main.24bd07af.chunk.js",
+    "main.js.map": "/WebProductosDermatologicos/static/js/main.24bd07af.chunk.js.map",
+    "runtime-main.js": "/WebProductosDermatologicos/static/js/runtime-main.926e7a14.js",
+    "runtime-main.js.map": "/WebProductosDermatologicos/static/js/runtime-main.926e7a14.js.map",
+    "static/css/2.acd75131.chunk.css": "/WebProductosDermatologicos/static/css/2.acd75131.chunk.css",
+    "static/js/2.919cfdcc.chunk.js": "/WebProductosDermatologicos/static/js/2.919cfdcc.chunk.js",
+    "static/js/2.919cfdcc.chunk.js.map": "/WebProductosDermatologicos/static/js/2.919cfdcc.chunk.js.map",
+    "index.html": "/WebProductosDermatologicos/index.html",
+    "static/css/2.acd75131.chunk.css.map": "/WebProductosDermatologicos/static/css/2.acd75131.chunk.css.map",
+    "static/js/2.919cfdcc.chunk.js.LICENSE.txt": "/WebProductosDermatologicos/static/js/2.919cfdcc.chunk.js.LICENSE.txt",
+    "static/media/banner1.4340ef5b.jpg": "/WebProductosDermatologicos/static/media/banner1.4340ef5b.jpg",
+    "static/media/banner2.c66435af.jpg": "/WebProductosDermatologicos/static/media/banner2.c66435af.jpg",
+    "static/media/banner3.6ff9caf6.jpg": "/WebProductosDermatologicos/static/media/banner3.6ff9caf6.jpg",
+    "static/media/banner4.86ef8420.jpg": "/WebProductosDermatologicos/static/media/banner4.86ef8420.jpg",
+    "static/media/banner5.c374c71b.jpg": "/WebProductosDermatologicos/static/media/banner5.c374c71b.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.926e7a14.js",
+    "static/css/2.acd75131.chunk.css",
+    "static/js/2.919cfdcc.chunk.js",
+    "static/js/main.24bd07af.chunk.js"
+  ]
+}
