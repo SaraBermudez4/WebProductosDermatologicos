@@ -1,21 +1,35 @@
 {
   "name": "produtos-dermatologicos",
   "version": "0.1.0",
+  "homepage": "https://SaraBermudez4.github.io/WebProductosDermatologicos",
   "private": true,
   "dependencies": {
+    "@chakra-ui/react": "^1.6.2",
+    "@emotion/react": "11",
+    "@emotion/styled": "11",
     "@testing-library/jest-dom": "^5.11.4",
     "@testing-library/react": "^11.1.0",
     "@testing-library/user-event": "^12.1.10",
+    "bootstrap": "5.0.0",
+    "framer-motion": "4",
     "react": "^17.0.2",
+    "react-bootstrap": "^1.6.0",
     "react-dom": "^17.0.2",
+    "react-redux": "^7.2.4",
     "react-scripts": "4.0.3",
+    "react-uuid": "^1.0.2",
+    "redux": "^4.1.0",
+    "styled-components": "^5.3.0",
+    "uuid": "^8.3.2",
     "web-vitals": "^1.0.1"
   },
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "eject": "react-scripts eject"
+    "eject": "react-scripts eject",
+    "prevdeploy": "npm run build",
+    "deploy": "gh-pages -d build"
   },
   "eslintConfig": {
     "extends": [

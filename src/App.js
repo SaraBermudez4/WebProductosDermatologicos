@@ -1,24 +1,30 @@
-import logo from './logo.svg';
-import './App.css';
+import { Provider } from 'react-redux'
+import NavBar from './components/NavBar'
+import Slider from './components/Slider'
+import PedirDomicilio from "./components/PedirDomicilio";
+import ListarDomicilio from "./components/ListarDomicilio";
+import Store from './store/Store'
+import Footer from './components/Footer';
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
+    <Provider store={Store}>
+      <div className="App">
+        <NavBar />
+        <Slider />
+        <div className="container text-center">
+          <div className="row mt-3">
+            <div className="col" id="pedirAhora">
+              <PedirDomicilio />
+            </div>
+            <div className="col">
+              <ListarDomicilio />
+            </div>
+          </div>
+        </div>
+        <Footer/>
+      </div>
+    </Provider>
   );
 }
 
