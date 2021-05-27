@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.js": "/WebProductosDermatologicos/static/js/main.24bd07af.chunk.js",
-    "main.js.map": "/WebProductosDermatologicos/static/js/main.24bd07af.chunk.js.map",
+    "main.js": "/WebProductosDermatologicos/static/js/main.fdc8a45f.chunk.js",
+    "main.js.map": "/WebProductosDermatologicos/static/js/main.fdc8a45f.chunk.js.map",
     "runtime-main.js": "/WebProductosDermatologicos/static/js/runtime-main.926e7a14.js",
     "runtime-main.js.map": "/WebProductosDermatologicos/static/js/runtime-main.926e7a14.js.map",
     "static/css/2.acd75131.chunk.css": "/WebProductosDermatologicos/static/css/2.acd75131.chunk.css",
@@ -20,6 +20,6 @@
     "static/js/runtime-main.926e7a14.js",
     "static/css/2.acd75131.chunk.css",
     "static/js/2.919cfdcc.chunk.js",
-    "static/js/main.24bd07af.chunk.js"
+    "static/js/main.fdc8a45f.chunk.js"
   ]
 }
