@@ -9,10 +9,10 @@ const PedirDomicilio = () => {
 
     const [formValue, handleInputChange, reset] = useForm({
         nombre: '',
-        apellido: [],
-        correo: [],
-        direccion: [],
-        productos: []
+        apellido: "",
+        correo: "",
+        direccion: "",
+        productos: ""
     })
 
     const { nombre, apellido, correo, direccion, productos } = formValue
